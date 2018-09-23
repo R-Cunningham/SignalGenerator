@@ -1,2 +1,2 @@
 # SignalGenerator
-Scipy/Matplotlib script to generate signals/modulation schemes and plot the result visually for time/frequency domain.
+Scipy/Matplotlib script to generate signals/modulation schemes, DIT FFT, and plot the result visually for time/frequency domain. 
